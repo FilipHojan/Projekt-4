@@ -108,5 +108,10 @@ namespace rozpoznawanie_kolorów
         {
 
         }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }
